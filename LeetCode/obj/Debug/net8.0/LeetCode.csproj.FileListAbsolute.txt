@@ -1,0 +1,14 @@
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\bin\Debug\net8.0\LeetCode.exe
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\bin\Debug\net8.0\LeetCode.deps.json
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\bin\Debug\net8.0\LeetCode.runtimeconfig.json
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\bin\Debug\net8.0\LeetCode.dll
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\bin\Debug\net8.0\LeetCode.pdb
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfo.cs
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.dll
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\refint\LeetCode.dll
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.pdb
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.genruntimeconfig.cache
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\ref\LeetCode.dll
