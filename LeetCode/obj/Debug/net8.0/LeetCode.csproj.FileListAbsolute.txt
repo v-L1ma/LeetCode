@@ -12,3 +12,4 @@ C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\refint\Lee
 C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.pdb
 C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.genruntimeconfig.cache
 C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\ref\LeetCode.dll
+C:\Users\Vinicius\Documents\GitHub\LeetCode\LeetCode\obj\Debug\net8.0\LeetCode.sourcelink.json

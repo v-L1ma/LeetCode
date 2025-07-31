@@ -19,7 +19,10 @@ using LeetCode;
 //     }
 // }
 
-GreatestCommonDivisorOfStrings ex1071 = new GreatestCommonDivisorOfStrings();
+// GreatestCommonDivisorOfStrings ex1071 = new GreatestCommonDivisorOfStrings();
+ReverseVowelsOfAString ex345 = new ReverseVowelsOfAString();
 
-string answer = ex1071.gcdOfStrings("ABABAB", "ABAB");
+// string answer = ex1071.gcdOfStrings("ABABAB", "ABAB");
+
+string answer = ex345.ReverseVowels("IceCreAm");
 Console.Write(answer);
