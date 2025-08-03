@@ -20,9 +20,12 @@ using LeetCode;
 // }
 
 // GreatestCommonDivisorOfStrings ex1071 = new GreatestCommonDivisorOfStrings();
-ReverseVowelsOfAString ex345 = new ReverseVowelsOfAString();
+// ReverseVowelsOfAString ex345 = new ReverseVowelsOfAString();
+ReverseWordsInAString ex151 = new ReverseWordsInAString();
 
 // string answer = ex1071.gcdOfStrings("ABABAB", "ABAB");
 
-string answer = ex345.ReverseVowels("IceCreAm");
-Console.Write(answer);
+// string answer = ex345.ReverseVowels("IceCreAm");
+
+string answer = ex151.ReverseWords("  hello world  ");
+Console.Write("resposta: " + answer);
