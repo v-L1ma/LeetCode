@@ -21,11 +21,15 @@ using LeetCode;
 
 // GreatestCommonDivisorOfStrings ex1071 = new GreatestCommonDivisorOfStrings();
 // ReverseVowelsOfAString ex345 = new ReverseVowelsOfAString();
-ReverseWordsInAString ex151 = new ReverseWordsInAString();
+// ReverseWordsInAString ex151 = new ReverseWordsInAString();
+ProductOfArrayExceptSelf ex238 = new ProductOfArrayExceptSelf();
+
 
 // string answer = ex1071.gcdOfStrings("ABABAB", "ABAB");
 
 // string answer = ex345.ReverseVowels("IceCreAm");
 
-string answer = ex151.ReverseWords("  hello world  ");
-Console.Write("resposta: " + answer);
+// string answer = ex151.ReverseWords("  hello world  ");
+
+int[] answer = ex238.ProductExceptSelf([1,2,3,4]);
+Console.Write("resposta: " + answer[1]);
